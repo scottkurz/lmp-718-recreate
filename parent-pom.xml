@@ -32,13 +32,6 @@
         <app.name>${project.artifactId}</app.name>
     </properties>
 
-    <repositories>
-        <repository>
-            <id>localrepository</id>
-            <url>/mvn/repository</url>
-        </repository>
-    </repositories>
-
     <build>
         <pluginManagement>
             <plugins>
